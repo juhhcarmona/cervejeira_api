@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  estilo: MyString
+  temperatura_max: 9.99
+  temperatura_min: 9.99
+
+two:
+  estilo: MyString
+  temperatura_max: 9.99
+  temperatura_min: 9.99
